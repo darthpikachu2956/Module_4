@@ -18,5 +18,3 @@ first_house.go_to(7)
 second_house.go_to(5)
 first_house.go_to(0)
 second_house.go_to(2)
-
-print(f'We have built new houses: {first_house.name} and {second_house.name}!')
