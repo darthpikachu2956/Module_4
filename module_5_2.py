@@ -20,8 +20,6 @@ class House:
 
 first_house = House('West Pines', 16)
 second_house = House('Grove Street', 2)
-first_house.go_to(5)
-second_house.go_to(4)
 print(first_house)
 print(second_house)
 print(len(first_house))
